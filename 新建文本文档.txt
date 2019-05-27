@@ -1,0 +1,6 @@
+1.livereload
+2.cssrem
+3.emmet
+4.vue syntax highlight
+5.all autocomplete
+6.color Highlighter
